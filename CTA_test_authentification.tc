@@ -2,7 +2,6 @@
 <TestCaseEntity>
    <description></description>
    <name>CTA_test_authentification</name>
-   <tag></tag>
-   <comment></comment>
+
    <testCaseGuid>fcb8c550-86fe-470e-ae50-f24cc5f3300f</testCaseGuid>
 </TestCaseEntity>
